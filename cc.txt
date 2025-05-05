@@ -1,0 +1,3 @@
+cloud computing:
+we can accesss resources using it
+this will give storage,resources,etc
